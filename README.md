@@ -3,6 +3,10 @@
 ## 📌 Project Overview
 This Power BI project analyzes marketing performance metrics, focusing on revenue, expenses, conversion rates, and other key KPIs. The project includes two interactive dashboards with slicers, bookmarks, and advanced visualizations for in-depth insights into marketing efficiency.
 
+## 🔗 Live Demo  
+Check out the dashboard here: [Marketing_Performance_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWIwZTU1ZWMtNmI0MC00MWVmLTg0MjAtYTA0MjU4YzdjODczIiwidCI6ImJkMGQ4ZDNmLTJjODYtNGRhMC04Y2FhLWZlNjFlNzNlNGQ5MyIsImMiOjEwfQ%3D%3D) 🚀  
+
+
 ## 🏗️ Dashboards & Visualizations
 
 ### 🖥️ Dashboard 1: Marketing Performance Overview
