@@ -67,3 +67,20 @@ Check out the dashboard here: [Marketing_Performance_Dashboard](https://app.powe
 - ROI and profitability breakdown by category, city, and channel
 - Variance analysis between actuals vs budget/forecast
 - Click-through rate (CTR) and conversion rate performance
+
+
+## 📸 Screenshots  
+
+### Overview Dashboard  
+![Marketing Channels Details](https://github.com/sofoq/Power_BI_Marketing_Performance_Dashboard/blob/main/OVERVIEW.png)  
+
+### Details Dashboard  
+![Time Series Analysis](https://github.com/sofoq/Power_BI_Marketing_Performance_Dashboard/blob/main/DETAILS.png)  
+
+
+Sofo Qaadze 
+📧 [sqaadze2000@gmail.com](mailto:sqaadze2000@gmail.com)  
+🔗 [LinkedIn: Sofo Qaadze](https://www.linkedin.com/in/sofo-qaadze-ba7895205/)
+
+
+
