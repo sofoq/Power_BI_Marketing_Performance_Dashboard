@@ -9,7 +9,7 @@ Check out the dashboard here: [Marketing_Performance_Dashboard](https://app.powe
 
 ## 🏗️ Dashboards & Visualizations
 
-### 🖥️ Dashboard 1: Marketing Performance Overview
+### 🖥️ Dashboard 1: Marketing Channels Performance Overview
 #### 🔹 Key Features:
 1. **Month-Year Slicer** – Allows users to filter data by time period.
 2. **Key Performance Indicators (KPIs):**
