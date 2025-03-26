@@ -71,7 +71,7 @@ Check out the dashboard here: [Marketing_Performance_Dashboard](https://app.powe
 - Click-through rate (CTR) and conversion rate performance
 
 
-## 📸 Screenshots  
+## 📸 Screenshots
 
 ### Channels Performance Dashboard  
 ![Channel Performance](https://github.com/sofoq/Power_BI_Marketing_Performance_Dashboard/blob/main/Channel_Performance.png)  
