@@ -5,7 +5,7 @@ This Power BI project analyzes marketing performance metrics, focusing on revenu
 
 
 ## 🔗 Live Demo  
-Check out the dashboard here: [Marketing_Performance_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWIwZTU1ZWMtNmI0MC00MWVmLTg0MjAtYTA0MjU4YzdjODczIiwidCI6ImJkMGQ4ZDNmLTJjODYtNGRhMC04Y2FhLWZlNjFlNzNlNGQ5MyIsImMiOjEwfQ%3D%3D) 🚀  
+Check out the dashboard here: [Marketing_Performance_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDZhZGFkYWItNDZiMy00N2IzLTgyNDUtYWUxYmFhZmZhODhlIiwidCI6ImJkMGQ4ZDNmLTJjODYtNGRhMC04Y2FhLWZlNjFlNzNlNGQ5MyIsImMiOjEwfQ%3D%3D) 🚀  
 
 
 
