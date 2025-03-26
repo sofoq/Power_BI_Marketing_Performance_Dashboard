@@ -1,4 +1,4 @@
-# 📊 Power BI Marketing Performance Dashboard
+# 📊 Marketing Performance Dashboard
 
 ## 📌 Project Overview
 This Power BI project analyzes marketing performance metrics, focusing on revenue, expenses, conversion rates, and other key KPIs. The project includes two interactive dashboards with slicers, bookmarks, and advanced visualizations for in-depth insights into marketing efficiency.
