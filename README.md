@@ -74,10 +74,10 @@ Check out the dashboard here: [Marketing_Performance_Dashboard](https://app.powe
 ## 📸 Screenshots
 
 ### Channels Performance Dashboard  
-![Channel Performance](https://github.com/sofoq/Power_BI_Marketing_Performance_Dashboard/blob/main/Channel-Performance.png)  
+![Channel Performance](https://raw.githubusercontent.com/sofoq/Power_BI_Marketing_Performance_Dashboard/main/Channel_Performance.png)  
 
 ### Time Series Analysis Dashboard  
-![Time Series Analysis](https://github.com/sofoq/Power_BI_Marketing_Performance_Dashboard/blob/main/Time-Series-Analysis.png)  
+![Time Series Analysis](https://raw.githubusercontent.com/sofoq/Power_BI_Marketing_Performance_Dashboard/main/Time_Series_Analysis.png)  
 
 
 Sofo Qaadze 
