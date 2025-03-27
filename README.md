@@ -80,9 +80,7 @@ Check out the dashboard here: [Marketing_Performance_Dashboard](https://app.powe
 ![Time Series Analysis](https://raw.githubusercontent.com/sofoq/Power_BI_Marketing_Performance_Dashboard/main/Time%20Series%20Analysis.png)  
 
 
-Sofo Qaadze 
-📧 [sqaadze2000@gmail.com](mailto:sqaadze2000@gmail.com)  
-🔗 [LinkedIn: Sofo Qaadze](https://www.linkedin.com/in/sofo-qaadze-ba7895205/)
+
 
 
 
